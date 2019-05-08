@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnBoardingExample</string>
+    <string name="my_preference"></string>
+    <string name="my_preference_key"></string>
+</resources>
